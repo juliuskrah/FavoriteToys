@@ -1,0 +1,2 @@
+# FavoriteToys
+Simple Android Project
